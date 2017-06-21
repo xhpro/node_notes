@@ -1,0 +1,5 @@
+Node:
+node分为命令行模式和node交互模式
+
+命令行模式：   node 文件   
+node交互模式直接写javascript代码
